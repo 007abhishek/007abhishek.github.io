@@ -1,0 +1,63 @@
+body
+{
+	background-image:url(Task_1_BG.jpg);
+	margin:0;
+	padding:00;
+	font-family: sans-serif;
+	background-color: grey;
+	background-size: cover;
+	background-position: center;
+}
+.Profile-Page
+{
+	
+	width: 300px;
+	background: white;
+	padding: 30px;
+	margin: 8% 200;
+	height: 380px;
+	
+}
+.Profile-Page h1
+{
+	color: #1E90FF ; 
+	text-align: center;
+}
+.cm
+{
+	margin-top: -20px;
+	font-size: 18px;
+	color: grey;
+	text-align: center;
+}
+.Profile-Page a
+{
+	margin-bottom: 100px;
+	font-size: 20px;
+	width: 100%;
+	
+	
+}
+.Profile-Page h6
+{
+	margin-top: 10px;
+	text-align: center;
+	font-size: 18px;
+	color: black;
+}
+
+.p2
+{
+	margin-top: -35px;
+	text-align: center;
+}
+
+img
+{
+	border: 2px solid #1E90FF;
+	border-radius: 50%;
+	margin-top: -120px;
+	margin-left: 70px;
+	width: 150px;
+	
+}
